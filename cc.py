@@ -16,29 +16,6 @@ import sys
 import ssl
 import urllib.request
 
-
-print ('''
-       /////    /////    /////////////
-      CCCCC/   CCCCC/   | CC-attack |/
-     CC/      CC/       |-----------|/ 
-     CC/      CC/       |  Layer 7  |/ 
-     CC/////  CC/////   | ddos tool |/ 
-      CCCCC/   CCCCC/   |___________|/
->--------------------------------------------->
-Python3 version 2.9 (Improvement)
-                            C0d3d by L330n123
-╔═════════════════════════════════════════════╗
-║        Tos: Don't attack .gov website       ║
-║─────────────────────────────────────────────║
-║                 New stuff:                  ║
-║          + Added Random client ip           ║
-║          + Added socks mode selection       ║
-║          + Fixed slow mode                  ║
-║          + More Human-like options          ║
-║─────────────────────────────────────────────║
-║ Link: https://github.com/Leeon123/CC-attack ║
-╚═════════════════════════════════════════════╝''')
-
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
 			"Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1",
 			"Mozilla/5.0 (WindowsCE 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
